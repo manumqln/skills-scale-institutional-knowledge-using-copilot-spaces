@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - copilot/update-pr-status-to-ready
+  workflow_dispatch:
 
 permissions:
   pull-requests: write
