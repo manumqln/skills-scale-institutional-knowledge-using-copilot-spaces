@@ -44,3 +44,21 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+## Phase Handoffs & Escalation
+
+| Phase Transition | Handoff Action | Owner | Related Doc |
+|---|---|---|---|
+| Initiation → Planning | One-pager approved; kickoff meeting scheduled | PM + Product Lead | [Project Initiation](octoacme-project-initiation.md) → [Project Planning](octoacme-project-planning.md) |
+| Planning → Execution | Backlog groomed, DoD agreed, risks logged | PM | [Project Planning](octoacme-project-planning.md) → [Execution & Tracking](octoacme-execution-and-tracking.md) |
+| Execution → Release | All acceptance criteria met, release readiness checklist complete | PM + QA | [Execution & Tracking](octoacme-execution-and-tracking.md) → [Release & Deployment](octoacme-release-and-deployment.md) |
+| Release → Retrospective | Deployment verified, release notes published | PM | [Release & Deployment](octoacme-release-and-deployment.md) → [Retrospective](octoacme-retrospective-and-continuous-improvement.md) |
+
+## Related Documents
+- [Project Initiation Guide](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](octoacme-roles-and-personas.md)

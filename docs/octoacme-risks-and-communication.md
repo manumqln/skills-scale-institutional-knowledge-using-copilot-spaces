@@ -38,5 +38,18 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+
+| Level | Condition | Action | Owner |
+|---|---|---|---|
+| L1 | Risk identified by any team member | Add to risk register; discuss in next standup | Developer / QA |
+| L2 | Medium or High risk unresolved after one sprint | Escalate to PM; update mitigation plan | PM |
+| L3 | High impact + High likelihood; business-critical | Escalate to Product Lead and Sponsor; document decision log | PM + Product Lead |
+| L4 | Security or compliance risk | Immediately notify Security on-call; follow the security incident runbook | PM + Security |
+
+For structured risk reviews, use the [Risk Review Checklist](octoacme-risk-review-checklist.md).
+
+## Related Documents
+- [Risk Review Checklist](octoacme-risk-review-checklist.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)

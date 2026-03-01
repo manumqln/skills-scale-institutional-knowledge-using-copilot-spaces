@@ -41,3 +41,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Risk register created — see [Risk Review Checklist](octoacme-risk-review-checklist.md)
+
+## Related Documents
+- [Project Initiation Guide](octoacme-project-initiation.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Risk Review Checklist](octoacme-risk-review-checklist.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
