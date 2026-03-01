@@ -41,3 +41,12 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+**Next step:** [Project Planning](octoacme-project-planning.md)
+
+## Related Documents
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Roles and Personas](octoacme-roles-and-personas.md)
+- [Onboarding Checklist](octoacme-onboarding-checklist.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)

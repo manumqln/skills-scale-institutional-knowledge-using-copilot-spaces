@@ -2,6 +2,19 @@
 
 Welcome! This README introduces our project management philosophy and practices, summarizing how OctoAcme initiates, plans, executes, and continuously improves software projects.
 
+## Quickstart Guide
+
+New to OctoAcme project management? Start here:
+
+1. **Understand the basics** — Read this README and the [Project Management Overview](octoacme-project-management-overview.md).
+2. **Know your role** — Review [Roles and Personas](octoacme-roles-and-personas.md) to understand responsibilities and who to contact for what.
+3. **Onboard to a project** — Follow the [Onboarding Checklist](octoacme-onboarding-checklist.md) to get set up quickly.
+4. **Starting a new project?** — Use the [Project Initiation Guide](octoacme-project-initiation.md) to create a one-pager and get stakeholder alignment before jumping into planning.
+5. **In the middle of delivery?** — Check [Execution & Tracking](octoacme-execution-and-tracking.md) for team rhythm, PR workflow, quality gates, and escalation paths.
+6. **Preparing to release?** — Follow the [Release & Deployment Guide](octoacme-release-and-deployment.md) pre-release checklist.
+7. **Running a retro?** — Use the [Retrospective Template](octoacme-retrospective-template.md) for a consistent, actionable retro format.
+8. **Managing risks?** — See the [Risk Review Checklist](octoacme-risk-review-checklist.md) for how to identify, escalate, and resolve risks.
+
 ## Process Summary
 
 - **Customer-first, incremental delivery** — We prioritize customer value through iterative releases, keeping feedback loops short and outcomes visible.
@@ -21,8 +34,14 @@ Welcome! This README introduces our project management philosophy and practices,
 - [**Retrospective & Continuous Improvement**](octoacme-retrospective-and-continuous-improvement.md): How to run effective retros, track action items, and evolve team practices over time.
 - [**Roles and Personas**](octoacme-roles-and-personas.md): Responsibilities and expectations for every key role involved in OctoAcme projects.
 
+## Templates & Checklists
+
+- [**Retrospective Template**](octoacme-retrospective-template.md): Ready-to-use template for running sprint, release, or incident retrospectives.
+- [**Risk Review Checklist**](octoacme-risk-review-checklist.md): Structured checklist for weekly and pre-release risk reviews, including the escalation path.
+- [**Onboarding Checklist**](octoacme-onboarding-checklist.md): Step-by-step guide to onboard new team members to a project effectively.
+
 ---
 
 This README is designed to be the entry point for any contributor or stakeholder who wants to understand our process landscape, philosophy, and where to find detailed guidance for each phase of project management.
 
-Closes #2.
+Closes #4.
