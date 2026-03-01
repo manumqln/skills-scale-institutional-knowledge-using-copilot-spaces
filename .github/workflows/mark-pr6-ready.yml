@@ -1,0 +1,19 @@
+name: Mark PR 6 ready for review
+
+on:
+  push:
+    branches:
+      - copilot/update-pr-status-to-ready
+  workflow_dispatch:
+
+permissions:
+  pull-requests: write
+
+jobs:
+  mark-ready:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mark PR 6 as ready for review
+        run: gh pr ready 6 --repo ${{ github.repository }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
